@@ -25,8 +25,10 @@ We recommend using full names (rather than abbreviations) for variables.
 ⭕  circleRadius
 ```
 but there are some abbreviations we usually use for easy to code:
-
-|----|----|
+ 
+| Description | Abbreviation |
+| ----------- | ------------ |
+|             |              |
 
 # Tab
 We recommend using 4-space tab in all file. 

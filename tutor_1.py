@@ -7,7 +7,7 @@ class SquareToCircle(Scene):
         circle.set_stroke(BLUE_E, width=4)
         circle.generate_target()
         circle.target.shift(2*RIGHT+UP)
-
+        
         self.add(circle)
         self.play(Create(circle))
         self.play(MoveToTarget(circle))
