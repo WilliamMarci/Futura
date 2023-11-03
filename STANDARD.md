@@ -12,6 +12,7 @@ For all python file, the naming of all of them is subject to the following norms
 ```
 name_file:      exampleFileName_Num.add
 name_var:       exampleVar
+name_local_var  example_local_var
 name_function:  function(type var1):
 name_method:    exampleMethod
 name_class:     ExampleClassName

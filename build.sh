@@ -1,1 +1,2 @@
-manim -ql reflact.py Reflact
+# timeout 20 
+# manim -ql playground.py VectorFieldwithTime
